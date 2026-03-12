@@ -34,4 +34,4 @@ Projeto de tela de login feito com React.
 3. Rode o servidor
 
 ## Preview
-![Login Screen](preview/login-preview.png)d5fba30230793498fe5b9f2f077444bfeb2c5e59
+![Login Screen](src/assets/login-screen.png)
