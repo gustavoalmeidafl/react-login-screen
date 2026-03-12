@@ -1,0 +1,39 @@
+.header {
+  width: 100%;
+  padding: 15px;
+  background-color: #252525;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-right: 60px;
+}
+
+.link-list {
+  margin-left: 50px;
+}
+.link-list a {
+  margin: 15px;
+  text-decoration: none;
+  color: white;
+}
+
+.link-list a:hover{
+  text-decoration: underline;
+}
+
+.button-contact {
+  background-color: #1139a8;
+  border: none;
+  border-radius: 20px;
+  padding: 6px 14px;
+  color: white;
+  cursor: pointer;
+}
